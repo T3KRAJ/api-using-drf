@@ -42,7 +42,7 @@ jupyter==1.0.0
 jupyter-client==5.3.4
 jupyter-console==6.1.0
 jupyter-core==4.6.2
-lxml==4.5.0
+lxml==4.6.2
 Markdown==3.2.1
 MarkupSafe==1.1.1
 MeaningCloud-python==1.2.1
